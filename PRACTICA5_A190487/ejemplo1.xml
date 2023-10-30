@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./ejemplo1.xsl"?>
+<telefonos>
+    <telefono>
+        <modelo>Samsung Galaxy S23 Ultra</modelo>
+        <precio>$30,399 MXN</precio>
+    </telefono>
+    <telefono>
+        <modelo>Huawei P60 Pro</modelo>
+        <precio>$21,981 MXN</precio>
+    </telefono>
+    <telefono>
+        <modelo>Xiaomi 13 Pro</modelo>
+        <precio>$1,399 MXN</precio>
+    </telefono>
+    <telefono>
+        <modelo>iPhone 14 Pro</modelo>
+        <precio>$32,499 MXN</precio>
+    </telefono>
+    <telefono>
+        <modelo>Google Pixel 7</modelo>
+        <precio>$24,999 MXN</precio>
+    </telefono>
+    <telefono>
+        <modelo>OnePlus 9T</modelo>
+        <precio>$18,799 MXN</precio>
+    </telefono>
+</telefonos>
+
+<!-- JOSE LUIS SOLÓRZANO GUTIERREZ -->
+<!-- FUNCIONO EL DISEÑO EN XAMMP CON APACHE -->
